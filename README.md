@@ -92,14 +92,14 @@ Weighted 평균 F1: 0.8202
 | Alveoli | 0.7976 | 0.7935 | 0.7956 |
 | Other  | 0.6995 | 0.6440 | 0.6706 |
 
-![figure/image.png](figure/image 8.png)
+![figure/image 8.png](figure/image 8.png)
 
-![figure/image.png](figure/image 6.png)
+![figure/image 6.png](figure/image 6.png)
 
-![figure/image.png](figure/image 7.png)
+![figure/imag 7.png](figure/image 7.png)
 
 # WSI level analysis
 
-![figure/image.png](figure/image 8.png)
+![figure/image 8.png](figure/image 8.png)
 
-![figure/image.png](figure/image 9.png)
+![figure/image 9.png](figure/image 9.png)
