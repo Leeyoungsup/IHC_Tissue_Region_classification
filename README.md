@@ -25,7 +25,7 @@ git repositories: https://github.com/Leeyoungsup/IHC_Tissue_Region_classificatio
 
 ![figure/image.png](figure/image.png)
 
-![image.png](figure/image 1.png)
+![figure/image.png](figure/image 1.png)
 
 # Model
 
@@ -92,14 +92,14 @@ Weighted 평균 F1: 0.8202
 | Alveoli | 0.7976 | 0.7935 | 0.7956 |
 | Other  | 0.6995 | 0.6440 | 0.6706 |
 
-![image.png](figure/image 8.png)
+![figure/image.png](figure/image 8.png)
 
-![image.png](figure/image 6.png)
+![figure/image.png](figure/image 6.png)
 
-![image.png](figure/image 7.png)
+![figure/image.png](figure/image 7.png)
 
 # WSI level analysis
 
-![image.png](figure/image 8.png)
+![figure/image.png](figure/image 8.png)
 
-![image.png](figure/image 9.png)
+![figure/image.png](figure/image 9.png)
