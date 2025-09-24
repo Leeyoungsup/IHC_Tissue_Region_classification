@@ -25,7 +25,7 @@ git repositories: https://github.com/Leeyoungsup/IHC_Tissue_Region_classificatio
 
 ![figure/image.png](figure/image.png)
 
-![figure/image.png](figure/image 1.png)
+![figure/image.png](figure/image%201.png)
 
 # Model
 
