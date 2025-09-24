@@ -23,7 +23,7 @@ git repositories: https://github.com/Leeyoungsup/IHC_Tissue_Region_classificatio
 - 20x (128,128) 크기의 이미지
 - 관련 링크 : [https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1334348/full](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1334348/full)
 
-![image.png](image.png)
+![figure\image.png](image.png)
 
 ![image.png](image%201.png)
 
