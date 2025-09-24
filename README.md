@@ -45,9 +45,9 @@ git repositories: https://github.com/Leeyoungsup/IHC_Tissue_Region_classificatio
     - 증강은 **RandAugment/ColorJitter + Mixup/CutMix**와 궁합 좋음.
     - *channels_last + AMP(FP16)**로 학습/추론 속도 개선.
     
-    ![image.png](figure/image 2.png)
+    ![image.png](figure/image%202.png)
     
-    ![image.png](figure/image 3.png)
+    ![image.png](figure/image%203.png)
     
 
 ## SAM Optimizer (Sharpness-Aware Minimization, Foret et al., 2021)
@@ -73,7 +73,7 @@ git repositories: https://github.com/Leeyoungsup/IHC_Tissue_Region_classificatio
     - 배치가 작을수록 ρ\rhoρ를 다소 줄이는 게 안정적.
     - 훈련 시간 증가(2배 안팎)와 메모리 여유 고려(질문자 GPU 10GB → `v2_s` + SAM 실전 가능).
     
-    ![image.png](figure/image 4.png)
+    ![image.png](figure/image%204.png)
     
 
 # Performance
@@ -92,14 +92,14 @@ Weighted 평균 F1: 0.8202
 | Alveoli | 0.7976 | 0.7935 | 0.7956 |
 | Other  | 0.6995 | 0.6440 | 0.6706 |
 
-![figure/image 8.png](figure/image 8.png)
+![figure/image 8.png](figure/image%208.png)
 
-![figure/image 6.png](figure/image 6.png)
+![figure/image 6.png](figure/image%206.png)
 
-![figure/imag 7.png](figure/image 7.png)
+![figure/imag 7.png](figure/image%207.png)
 
 # WSI level analysis
 
-![figure/image 8.png](figure/image 8.png)
+![figure/image 8.png](figure/image%208.png)
 
-![figure/image 9.png](figure/image 9.png)
+![figure/image 9.png](figure/image%209.png)
